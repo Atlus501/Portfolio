@@ -1,0 +1,69 @@
+false false Rook -1
+false false Knight -1
+false false Bishop -1
+false false Queen -1
+false false King -1
+false false Bishop -1
+false false Knight -1
+false false Rook -1
+false false Pawn -1
+false false Pawn -1
+false false Pawn -1
+false false Pawn -1
+false false Pawn -1
+false false Pawn -1
+false false Pawn -1
+false false Pawn -1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true false Pawn -1
+true false Pawn -1
+true false Pawn -1
+true false Pawn -1
+true false Pawn -1
+true false Pawn -1
+true false Pawn -1
+true false Pawn -1
+true false Rook -1
+true false Knight -1
+true false Bishop -1
+true false Queen -1
+true false King -1
+true false Bishop -1
+true false Knight -1
+true false Rook -1
+1
+7
+4
+0
+4
